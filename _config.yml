@@ -30,14 +30,14 @@ exclude:
 # Jekyll SEO Tag (Optional)
 # =========================
 twitter:
-  username: ngzhio
+  username:None
   card: summary
-logo: logo.png
+logo: SigmaAvveer.jpg
 social:
-  name: Shangzhi Huang
+  name: Avveer Singh Khurana
   links:
     - https://twitter.com/ngzhio
     - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://github.com/AvveerSchoolAccount
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
