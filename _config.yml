@@ -1,5 +1,5 @@
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://AvveerSchoolAccount.github.io" # the subpath of your site, e.g. /blog
+url: "/AvveerSchoolAccount_Krossone.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
@@ -16,7 +16,7 @@ defaults:
   - scope:
       path: "_pages"
     values:
-      permalink: /:basename:output_ext
+      permalink: /:basename/
 
 include:
   - _pages
