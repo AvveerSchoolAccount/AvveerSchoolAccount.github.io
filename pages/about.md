@@ -6,4 +6,4 @@ permalink: /about
 
 # Portfolio Jekyll Theme
 
-This is a personal portfolio theme that I used as my personal portfolio
+This is a jekyll theme called portfolio made by LeNPaul that I used as to display all my projects
