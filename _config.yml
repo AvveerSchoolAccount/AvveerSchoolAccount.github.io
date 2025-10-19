@@ -7,6 +7,8 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		   "Portfolio Jekyll Theme"
-description: "Powered by Jekyll and GitHub Pages"
-author:      "Paul Le"
+title:		   "Avveer's Portfolio"
+description: "This website exists to display all my projects "
+author:      "Avveer Singh Khurana"
+url: "https://avveerschoolaccount.github.io"
+baseurl: ""  # Leave empty for user site!
