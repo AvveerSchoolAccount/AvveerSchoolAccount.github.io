@@ -6,4 +6,4 @@ permalink: /contact
 
 # Contact
 
-You may contact me at my gmail which is avveer@gmail
+You may contact me at my gmail which is avveer09@gmail
