@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'First Finished Website'
+image: projects/Website_CoverPage.png
 ---
 
 I will update this and talk about the proccess of finally making my own website 
