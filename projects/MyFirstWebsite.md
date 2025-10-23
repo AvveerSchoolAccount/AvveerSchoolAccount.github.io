@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'First Finished Website'
-image: projects/Website_CoverPage.png
+thumbnail: "MyFirstWebsite/MyFirstWebsite.png"
 ---
 
 This project is a task I struggled with even in grade 10 as my url did not work. In grade 11, even after understandig how hosting jekyll themed websites on github worked, I was not doing great. The main problem I faced was finding the right balance between goodlooking websites and non-complex themes. 
