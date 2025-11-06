@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Anscombe EDA Project'
+title: 'AnscombeEDA-Summary'
 ---
 
-This is what I will write 
+This is what I will write latter yap yap yap 
