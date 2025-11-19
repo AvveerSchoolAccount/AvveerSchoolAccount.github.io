@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Avveer's Matplotlib Tutorials'
+title: 'Avveers Matplotlib Tutorials'
 ---
 
 These are a series of lessons that go over basic skills for Matplotlib, including basic, multi array and 3d graphs. I made these series for people who want to learn ml but do not know how make graphs and do everything online.
