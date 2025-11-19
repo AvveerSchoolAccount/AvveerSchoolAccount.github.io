@@ -11,6 +11,7 @@ menu:
 # Projects Section 
 
 projects:
+- {name: 'Avveers Matplotlib Lessons',   url: 'Matplotlib_Lessons'}
 - {name: 'AnscombeEDA-Summary',   url: 'AnscombeEDA-Summary'}
 - {name: 'My First Website',   url: 'MyFirstWebsite'}
 #- {name: 'Project One',   url: 'proj-1'}
