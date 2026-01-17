@@ -7,7 +7,7 @@ plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		   "Avveer's Portfolio"
+title:		   "Avveer Portfolio"
 description: "This website exists to display all my projects "
 author:      "Avveer Singh Khurana"
 url: "https://avveerschoolaccount.github.io"
