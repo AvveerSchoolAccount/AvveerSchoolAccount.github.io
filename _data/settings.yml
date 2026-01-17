@@ -11,6 +11,7 @@ menu:
 # Projects Section 
 
 projects:
+- {name: 'Fixed Linear Regression Lesson',   url: 'Fixed_Linear_Regression_Tutorial'} 
 - {name: 'Avveers Matplotlib Lessons',   url: 'Matplotlib_Lessons'}
 - {name: 'AnscombeEDA-Summary',   url: 'AnscombeEDA-Summary'}
 - {name: 'My First Website',   url: 'MyFirstWebsite'}
