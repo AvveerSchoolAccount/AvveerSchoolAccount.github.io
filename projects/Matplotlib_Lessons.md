@@ -7,3 +7,6 @@ These are a series of lessons that go over basic skills for Matplotlib, includin
 
 Lesson_1: <u>**CLICK Image bellow**</u> 
 {% include image.html url="https://avveerschoolaccount.github.io/Matplotlib_FirstLesson/" image="projects/Matplotlib_Lessons/Lesson_1Thumbnail .jpg" %}
+
+Lesson_2: <u>**CLICK Image bellow**</u> 
+{% include image.html url="https://avveerschoolaccount.github.io/Matplotlib_SecondLesson/" image="projects/Matplotlib_Lessons/Lesson_2Thumbnail.jpg" %}
