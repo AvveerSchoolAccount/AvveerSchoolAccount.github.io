@@ -11,8 +11,8 @@ menu:
 # Projects Section 
 
 projects:
-- {name: 'Linear Reggresion And Binary Classification'   url: 'Linear_Reggresion_And_Classification'}
-- {name: 'Mpg Linear Regression Assignment'   url: 'Linear_Regression_Assignment'}
+- {name: 'Linear Reggresion And Binary Classification',   url: 'Linear_Reggresion_And_Classification'}
+- {name: 'Mpg Linear Regression Assignment',   url: 'Linear_Regression_Assignment'}
 - {name: 'Fixed Linear Regression Lesson',   url: 'Fixed_Linear_Regression_Tutorial'} 
 - {name: 'Avveers Matplotlib Lessons',   url: 'Matplotlib_Lessons'}
 - {name: 'AnscombeEDA-Summary',   url: 'AnscombeEDA-Summary'}
