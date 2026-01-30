@@ -1,7 +1,3 @@
----
-layout: post
----
-
 ## [**Anscombe’s Quartet — Exploratory Data Analysis (EDA)**](https://avveerschoolaccount.github.io/anscombe-eda/)
 
 This project explores Anscombe’s Quartet, a classic dataset introduced by statistician Francis Anscombe to demonstrate the importance of data visualization in statistical analysis. Although the four datasets share nearly identical summary statistics—such as mean, variance, correlation, and linear regression equations—they reveal dramatically different patterns when visualized.
