@@ -1,7 +1,3 @@
----
-layout: post
----
-
 ## [**Linear Regression and Binary Classification**](https://avveerschoolaccount.github.io/Linear_Reggresion_And_-Classification_Kraggle_Comp/)
 
 This project was a machine learning competition assigned by Mr. Andrade that focused on applying both linear regression and binary classification techniques to real-world data. The objective was to build predictive models, evaluate their performance, and generate competition-ready submissions.
