@@ -1,15 +1,14 @@
 ---
 layout: post
-title: 'AnscombeEDA-Summary'
+title: '[Anscombe EDA – Summary](https://avveerschoolaccount.github.io/anscombe-eda/)'
 ---
 
-This was the second project Mr. Andrade assigned to the class. We had to learn how to use Jupyter Notebook to display the summary statistics and graphs of four individual datasets. These datasets were not just random sets of data — they were special and are known as Anscombe’s Quartet. <u>**Scroll to bottom to see project**</u>
+This project was the second assignment given by Mr. Andrade. The goal was to learn how to use Jupyter Notebook to display summary statistics and visualizations for four separate datasets. These datasets were not random — they are famously known as **Anscombe’s Quartet**.
 
-{% include image.html image="projects/AnscombeEDA-Summary/thumbnail.jpg" %}
+Before explaining why these datasets are so different, it’s important to understand what **summary statistics** are. Summary statistics provide basic numerical information about a dataset, such as the mean (average), variance, and the line of best fit.
 
-Before I explain why the datasets are different, I want to explain what summary statistics are. Summary statistics provide basic information about a dataset. This includes the mean (the average of all values in the dataset), the line of best fit, etc. Now, the four datasets provided to us were nothing alike. In fact, when graphed, they looked completely different. One was linear, another quadratic, one appeared random, and the last one formed a vertical line with one outlier. However, the summary statistics told a completely different story. When rounded, they produced nearly identical numbers. This is important because it shows the need to properly graph data. It also shows how visualizing data helps prevent mistakes allowing for better understanding.
+Although the four datasets in Anscombe’s Quartet have nearly identical summary statistics when rounded, they look completely different when graphed. One dataset appears linear, another quadratic, one looks random, and the last forms a vertical line with a single outlier. This contrast highlights an important lesson: relying only on summary statistics can be misleading. Proper data visualization is essential for understanding patterns, detecting errors, and avoiding incorrect conclusions.
 
-In the second phase of the project, we learned how to convert .ipynb files into .pdf files. Which is not as simple as it sounds since directly converting a Jupyter Notebook file to a PDF often results in poor formatting and a lot of Errors. After a lot of research, I discovered LaTeX. According to Google, LaTeX is a high-quality document preparation system and a markup language used to produce professional-looking documents, especially those with complex mathematical and scientific content. In simple terms, you use LaTeX to properly format PDFs.
+In the second phase of the project, we learned how to convert Jupyter Notebook (`.ipynb`) files into PDF documents. This turned out to be more difficult than expected, as direct conversions often result in formatting issues and errors. After researching possible solutions, I discovered **LaTeX**. LaTeX is a high-quality document preparation system commonly used for scientific and mathematical documents. In simple terms, it allows you to create clean, well-formatted PDFs from complex notebooks.
 
-<u>**CLICK Image see MAGIC TRICK!!!**</u> 
-{% include image.html url="https://avveerschoolaccount.github.io/anscombe-eda/" image="projects/AnscombeEDA-Summary/Anscombe's_quartet_pdflink.jpg" %}
+👉 **Click the title above to view the full project.**
