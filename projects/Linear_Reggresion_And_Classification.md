@@ -1,13 +1,10 @@
 ---
 layout: post
-title: 'Linear Reggresion And Binary Classification'
+title: '[Linear Regression and Binary Classification](https://avveerschoolaccount.github.io/Linear_Reggresion_And_-Classification_Kraggle_Comp/)'
 ---
 
-I did MrA. competion on linear regression and binary classification which was about something and required somwthing 
+Note: **Click the title above to view the full project and competition details.**
+This project was a competition assigned by Mr. Andrade that focused on both **linear regression** and **binary classification**. The goal was to build and evaluate models that could make accurate predictions based on the provided datasets.
 
-Competion Code <u>**CLICK Image bellow**</u> 
-{% include image.html url="https://avveerschoolaccount.github.io/Linear_Reggresion_And_-Classification_Kraggle_Comp/" image="projects/Linear_Reggresion_And_Classification/Screenshot from 2026-01-17 18-00-04.png" %}
-
-
-
+Throughout the project, I worked on preparing the data, selecting appropriate features, and applying machine learning techniques for both regression and classification tasks. This assignment helped reinforce the differences between continuous and categorical predictions, as well as the importance of choosing the right model for each problem.
 
