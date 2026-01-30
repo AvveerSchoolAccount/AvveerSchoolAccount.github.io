@@ -1,9 +1,10 @@
 ---
 layout: post
-title: '[Anscombe EDA – Summary](https://avveerschoolaccount.github.io/anscombe-eda/)'
+title: Anscombe EDA – Summary
 ---
 
-Note:  **Click the title above to view the full project.**
+[**Project**](https://avveerschoolaccount.github.io/anscombe-eda/)
+
 This project was the second assignment given by Mr. Andrade. The goal was to learn how to use Jupyter Notebook to display summary statistics and visualizations for four separate datasets. These datasets were not random — they are famously known as **Anscombe’s Quartet**.
 
 Before explaining why these datasets are so different, it’s important to understand what **summary statistics** are. Summary statistics provide basic numerical information about a dataset, such as the mean (average), variance, and the line of best fit.
