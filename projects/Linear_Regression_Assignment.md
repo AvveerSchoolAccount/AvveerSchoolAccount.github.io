@@ -1,6 +1,3 @@
----
-layout: post
----
 ## [**MPG Linear Regression Assignment**](https://avveerschoolaccount.github.io/Linear_Regression_Assignment/)
 
 This project was a linear regression competition assigned by Mr. Andrade that focused on predicting a vehicle’s miles per gallon (MPG) using automotive performance and design features. The objective was to build interpretable regression models, evaluate their assumptions, and understand how individual predictors influence fuel efficiency.
