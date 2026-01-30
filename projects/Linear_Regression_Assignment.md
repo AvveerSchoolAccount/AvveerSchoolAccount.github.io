@@ -1,12 +1,9 @@
 ---
 layout: post
-title: 'Mpg Linear Regrssion Assignment'
+title: '[MPG Linear Regression Assignment](https://avveerschoolaccount.github.io/Linear_Regression_Assignment/)'
 ---
 
-I did MrA. competion on linear regression which was about something and required somwthing 
+Note: **Click the title above to view the full project and competition details.**
+This project was a linear regression competition assigned by Mr. Andrade. The objective was to build a model that predicts a car’s **miles per gallon (MPG)** based on various features in the dataset.
 
-Competion Code <u>**CLICK Image bellow**</u> 
-{% include image.html url="https://avveerschoolaccount.github.io/Linear_Regression_Assignment/" image="projects/Linear_Regression_Assignment/Screenshot from 2026-01-17 17-31-03.png" %}
-
-
-
+Through this assignment, I applied linear regression techniques, explored relationships between variables, and evaluated how well the model performed. The project emphasized the importance of data preparation, model interpretation, and understanding how input features influence predictions.
