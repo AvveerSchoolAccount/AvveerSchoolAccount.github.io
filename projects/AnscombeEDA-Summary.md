@@ -1,16 +1,15 @@
 ---
 layout: post
-title: Anscombe EDA – Summary
 ---
 
-[**Project**](https://avveerschoolaccount.github.io/anscombe-eda/)
+## [**Anscombe’s Quartet — Exploratory Data Analysis (EDA)**](https://avveerschoolaccount.github.io/anscombe-eda/)
 
-This project was the second assignment given by Mr. Andrade. The goal was to learn how to use Jupyter Notebook to display summary statistics and visualizations for four separate datasets. These datasets were not random — they are famously known as **Anscombe’s Quartet**.
+This project explores Anscombe’s Quartet, a classic dataset introduced by statistician Francis Anscombe to demonstrate the importance of data visualization in statistical analysis. Although the four datasets share nearly identical summary statistics—such as mean, variance, correlation, and linear regression equations—they reveal dramatically different patterns when visualized.
 
-Before explaining why these datasets are so different, it’s important to understand what **summary statistics** are. Summary statistics provide basic numerical information about a dataset, such as the mean (average), variance, and the line of best fit.
+Using Python and Jupyter Notebook, I computed key summary statistics and created multiple visualizations, including scatter plots with regression lines, residual plots, overlaid comparisons, and distribution plots. These visualizations clearly show that relying solely on numerical summaries can be misleading. Patterns such as nonlinearity, clustering, and influential outliers only become apparent when the data is graphed.
 
-Although the four datasets in Anscombe’s Quartet have nearly identical summary statistics when rounded, they look completely different when graphed. One dataset appears linear, another quadratic, one looks random, and the last forms a vertical line with a single outlier. This contrast highlights an important lesson: relying only on summary statistics can be misleading. Proper data visualization is essential for understanding patterns, detecting errors, and avoiding incorrect conclusions.
+A key takeaway from this project is that exploratory data analysis must include visual inspection alongside statistical measures to avoid incorrect conclusions and to better understand the true structure of data.
 
-In the second phase of the project, we learned how to convert Jupyter Notebook (`.ipynb`) files into PDF documents. This turned out to be more difficult than expected, as direct conversions often result in formatting issues and errors. After researching possible solutions, I discovered **LaTeX**. LaTeX is a high-quality document preparation system commonly used for scientific and mathematical documents. In simple terms, it allows you to create clean, well-formatted PDFs from complex notebooks.
+As part of the project, I also converted the Jupyter Notebook into a professionally formatted PDF. This process introduced challenges related to layout and rendering, which I addressed by learning and applying LaTeX. LaTeX allowed me to generate clean, publication-quality documentation suitable for academic and technical presentation.
 
 
