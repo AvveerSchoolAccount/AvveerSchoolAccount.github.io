@@ -1,7 +1,3 @@
----
-layout: post
----
-
 ## [**Fixed Linear Regression Tutorial**](https://avveerschoolaccount.github.io/-Fixed_Linear_Regression_MrA/)
 
 This project is a corrected and enhanced version of a linear regression tutorial originally provided by Mr. Andrade. The goal was to clarify key concepts in linear regression and fix implementation issues so that the tutorial accurately demonstrates how regression models work in practice.
