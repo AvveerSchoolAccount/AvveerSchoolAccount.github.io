@@ -4,6 +4,4 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
-
-This is a jekyll theme called portfolio made by LeNPaul that I used as to display all my projects
+Avveer is a sci-tech student of robotics under the able guidance of Mr. Andrew Andrade. He is currently going through the paces of writing advanced computer programs and designing websites as a prelude to graduating in mechatronics.
