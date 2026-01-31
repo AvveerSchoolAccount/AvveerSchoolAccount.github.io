@@ -18,6 +18,7 @@ projects:
 - {name: 'Mpg Linear Regression Assignment',   url: 'Linear_Regression_Assignment'}
 - {name: 'Linear Reggresion And Binary Classification',   url: 'Linear_Reggresion_And_Classification'}
 - {name: 'Kaggle Test Scores Contest Linear Regression',   url: 'Test_Score_Linear_Regression'}
+- {name: 'Kaggle Test Scores Contest LightGBM',   url: 'Test_Score_LightGBM'}
 #- {name: 'Project One',   url: 'proj-1'}
 #- {name: 'Project Two',   url: 'proj-2'}
 #- {name: 'Project Three', url: 'proj-3'}
