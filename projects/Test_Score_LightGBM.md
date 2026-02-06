@@ -7,7 +7,7 @@ title: 'Test Prediction LightGBM'
 
 This is the latest and the most advanged regression model I have learnt. I have only made one model but that model boosted my score to 8.7 the top 100 have scores. This model is great with large datasets, lots of features and tabular data.
 
-## [Model 1](https://avveerschoolaccount.github.io/Kraggle_Test_Scores_Comp_L1/)
+## [Model 1](https://avveerschoolaccount.github.io/Kraggle_Test_Scores_Comp_Lt1/)
 
 This project uses a LightGBM regression model to predict students’ exam scores based on demographic, academic, and environmental factors. The dataset includes both numerical and categorical features such as gender, course, study method, sleep quality, internet access, exam difficulty, and facility rating. All categorical variables are handled natively by LightGBM, avoiding manual encoding and keeping the pipeline efficient.
 
